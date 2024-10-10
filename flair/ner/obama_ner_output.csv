@@ -1,0 +1,195 @@
+Entity,Type,Start Position,End Position
+Michelle Kwan,PER,0,13
+Korea,LOC,25,30
+US Department of State,ORG,39,61
+State Departments Bureau of Educational and Cultural Affairs,ORG,202,262
+Michelle,PER,289,297
+Seoul Pyeongchang,LOC,309,326
+Goyang,LOC,331,337
+Olympics,MISC,487,495
+US Forces Korea,ORG,518,533
+Yongsan Military Garrison,ORG,541,566
+Darlene Kirk,PER,619,631
+Brian Gibel,PER,664,675
+US,LOC,683,685
+US Department of State,ORG,731,753
+Nestor Tedesco,PER,764,778
+Argentine,MISC,782,791
+Fulbright Foreign Student Program,ORG,807,840
+Month Tedesco,ORG,871,884
+Argentinean,MISC,982,993
+Argentineans,MISC,1051,1063
+Americans,MISC,1068,1077
+Tedesco,PER,1078,1085
+United States,LOC,1098,1111
+Boston,LOC,1151,1157
+Argentina,LOC,1207,1216
+Buenos Aires Colon Theater,ORG,1274,1300
+National Art Institute University,ORG,1333,1366
+Tedesco,PER,1433,1440
+United States,LOC,1517,1530
+Zonas de Accion Prioritaria ZAP Program Priority Action Zones Program,MISC,1591,1660
+Argentinas,MISC,1715,1725
+Tedescos,ORG,1840,1848
+Tedesco,PER,1964,1971
+Argentina,LOC,2011,2020
+American,MISC,2193,2201
+Tedesco,ORG,2327,2334
+US,LOC,2352,2354
+Villa 31,ORG,2384,2392
+American,MISC,2424,2432
+Joshua Bell Tedesco,PER,2443,2462
+Tedescos,ORG,2902,2910
+State Alumni,ORG,2983,2995
+Bureau of Educational and Cultural Affairs,ORG,3028,3070
+Bureaus Office of Alumni Affairs,ORG,3204,3236
+US Department of State Bureau of Educational and Cultural Affairs,ORG,3388,3453
+httpexchangesstategovalumnialumnushtml Media,ORG,3465,3509
+Catherine Stearns StearnsCLstategov,ORG,3518,3553
+Burmas,MISC,3627,3633
+British,MISC,3652,3659
+Burma,LOC,3720,3725
+Burmas,MISC,3767,3773
+United States,LOC,3786,3799
+Burma,LOC,3888,3893
+United States,LOC,3898,3911
+Burmese,MISC,4020,4027
+Burmese,MISC,4054,4061
+Burmas,MISC,4230,4236
+Obama,PER,4323,4328
+United States,LOC,4347,4360
+Republic of Haiti,LOC,4394,4411
+Haiti,LOC,4545,4550
+Toussaint Louverture JeanJacques Dessalines,PER,4654,4697
+Alexandre Petion,PER,4702,4718
+HaitianAmericans,MISC,5007,5023
+United States,LOC,5071,5084
+United States,LOC,5226,5239
+Haiti,LOC,5251,5256
+Haitians,MISC,5401,5409
+Haiti,LOC,5463,5468
+United States,LOC,5643,5656
+Chad,LOC,5699,5703
+Sudan,LOC,5708,5713
+Chadian,MISC,5781,5788
+Moussa Faki,PER,5806,5817
+Sudanese,MISC,5822,5830
+Ghazi Salahuddin,PER,5855,5871
+United States,LOC,5876,5889
+Security Protocol,MISC,5989,6006
+United States,LOC,6171,6184
+Chad,LOC,6235,6239
+Sudan,LOC,6244,6249
+NDjamena Chad,LOC,32,45
+Darfur Peace Process,ORG,248,268
+United States,LOC,273,286
+Darfur,LOC,318,324
+ChadSudan,MISC,374,383
+Ian,PER,449,452
+KELLY Okay Well,PER,751,766
+State Department,ORG,937,953
+US,LOC,1074,1076
+London,LOC,1088,1094
+London,LOC,1121,1127
+Nigeria,LOC,1314,1321
+Abuja,LOC,1325,1330
+State Department,ORG,1427,1443
+London,LOC,1603,1609
+United States,LOC,1865,1878
+KELLY,PER,1882,1887
+God,PER,2034,2037
+KELLY,PER,2064,2069
+KELLY,PER,2610,2615
+State Department,ORG,2809,2825
+KELLY,PER,3049,3054
+KELLY,PER,3095,3100
+State Department,ORG,3193,3209
+National Counterterrorism Center,ORG,3604,3636
+VISAS VIPER,MISC,3792,3803
+State Department,ORG,3982,3998
+Congress,ORG,4090,4098
+Enhanced Border Security and Visa Entry Reform Act,MISC,4109,4159
+State Department,ORG,4172,4188
+VISAS VIPER,MISC,4217,4228
+KELLY,PER,4345,4350
+State Department,ORG,4533,4549
+US,LOC,4648,4650
+KELLY,PER,4659,4664
+State Department,ORG,4845,4861
+VISAS,MISC,4902,4907
+VIPER,ORG,4908,4913
+KELLY,PER,5172,5177
+KELLY,PER,15,20
+KELLY,PER,202,207
+Abuja,LOC,223,228
+Abuja,LOC,289,294
+London,LOC,343,349
+Abuja,LOC,436,441
+KELLY,PER,513,518
+State Department,ORG,548,564
+National Counterterrorism Center,ORG,653,685
+KELLY,PER,768,773
+National Counterterrorism Center,ORG,792,824
+MR KELLY National Counterterrorism Center,ORG,1039,1080
+National Counterterrorism Center,ORG,1119,1151
+KELLY,PER,1286,1291
+National Counterterrorism Center,ORG,1425,1457
+State Department,ORG,1577,1593
+KELLY,PER,1651,1656
+Honduras,LOC,2310,2318
+KELLY,PER,2473,2478
+KELLY,PER,2737,2742
+KELLY,PER,2839,2844
+NCTC,ORG,2939,2943
+US,LOC,3124,3126
+Abuja,LOC,3135,3140
+KELLY,PER,3265,3270
+KELLY,PER,3531,3536
+Abuja,LOC,3552,3557
+KELLY,PER,3672,3677
+KELLY Yeah Well,PER,3821,3836
+Moscow,LOC,3888,3894
+State Department,ORG,3934,3950
+Moscow,LOC,3960,3966
+Visas Donkey Chipmunk,MISC,4065,4086
+Soviets,MISC,4109,4116
+Visas Donkey Chipmunk,MISC,4605,4626
+United States,LOC,4816,4829
+Charley,PER,4926,4933
+KELLY,PER,5038,5043
+State Department,ORG,5070,5086
+US,LOC,5172,5174
+KELLY,PER,5186,5191
+Abuja,LOC,5227,5232
+KELLY,PER,5266,5271
+National Counterterrorism Centers,ORG,40,73
+NCTC,ORG,197,201
+KELLY Well Im,PER,244,257
+KELLY,PER,592,597
+NCTC,ORG,664,668
+State Department,ORG,839,855
+State Department,ORG,860,876
+State Department,ORG,922,938
+State Department,ORG,961,977
+KELLY Well,PER,1075,1085
+State Department,ORG,1108,1124
+KELLY,PER,1566,1571
+London,LOC,1659,1665
+19th Should,MISC,1771,1782
+KELLY,PER,1811,1816
+Washington,LOC,1854,1864
+KELLY,PER,2039,2044
+KELLY,PER,2230,2235
+KELLY,PER,2608,2613
+KELLY,PER,2679,2684
+KELLY,PER,2999,3004
+KELLY,PER,3325,3330
+Clinton,PER,3480,3487
+State Department,ORG,3513,3529
+Visa Entry Reform Act,MISC,3668,3689
+KELLY,PER,4236,4241
+KELLY,PER,4419,4424
+KELLY,PER,4610,4615
+KELLY,PER,4699,4704
+KELLY,PER,4971,4976
+KELLY,PER,5201,5206
